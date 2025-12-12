@@ -1,7 +1,10 @@
 ---
 website:"reduxx.info"
 instagram:"
-tags:["transphobia","spin_cycle", "brownshirt"]
+tags:
+- transphobia
+- spin_cycle 
+- brownshirt
 ---
 
 # Reduxx 
@@ -13,8 +16,8 @@ Reduxx is an anti-trans hate site. They attempt to manufacture consent of violen
 
 ## Incidents 
 ### Weapon Selling 
-Reduxx sold a weapons that at time of writting is illegal in Canada. This supposedly resulted in their patreon being shut down. However Reduxx was quick to blame the trans community [^weapon] 
+Reduxx sold a weapons that at time of writting is illegal in Canada. This supposedly resulted in their patreon being shut down. However Reduxx was quick to blame the trans community [^weapon] .
 
 
 ## References
-[^weapon]: (Anti-trans site Reduxx blames trans people after its weapons-selling Patreon is shut down)[https://www.thepinknews.com/2024/11/12/reduxx-anti-trans-site/]
+[^weapon]: [Anti-trans site Reduxx blames trans people after its weapons-selling Patreon is shut down](https://www.thepinknews.com/2024/11/12/reduxx-anti-trans-site/)
