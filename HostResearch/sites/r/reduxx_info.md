@@ -12,7 +12,7 @@ tags:
 Reduxx is an anti-trans hate site. They attempt to manufacture consent of violence vs trans people by searching constantly for stories about trans people committing crimes to manufacture consent for violence against trans people.  
 
 ## People Involved
-[Anna Slatz](../people/AnnaSlatz.md)
+[Anna Slatz](../people/a/AnnaSlatz.md)
 
 ## Incidents 
 ### Weapon Selling 

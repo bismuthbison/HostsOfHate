@@ -2,6 +2,9 @@
 alias:
 - Anna De Luca
 substack: 
+tags: 
+- White Supremecist
+
 ---
 
 ## Anna Slatz
