@@ -30,3 +30,5 @@ Regularly tragets trans people.
 Do they call for violent action against journalist.
 ### Brownshirt
 Since some sites don't let you say the name that rhyms with Yahtzee. 
+### Death Lible
+As not to completly co-op the terrible practice of blood lible, death lible is a group tries to manufacture consent of violence towards another group.
