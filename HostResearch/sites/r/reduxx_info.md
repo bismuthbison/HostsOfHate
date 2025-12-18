@@ -1,6 +1,7 @@
 ---
-website:"reduxx.info"
-instagram:"reduxx.mag"
+type: site
+website: reduxx.info
+instagram: reduxx.mag
 
 tags:
 - transphobia
