@@ -1,4 +1,5 @@
 ---
+title: Template #What do you want the name of this to be, typically the common name
 alias: # Know Aliases
 - alias
 pronouns: they/them # Hey, we still respect and also this pisses them off a bit.
